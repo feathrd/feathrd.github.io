@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/feathrd
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://feathrd.co
+  * I am feathrd (https://keybase.io/feathrd) on keybase.
+  * I have a public key with fingerprint E916 9A3F 6D04 82D5 8AC9  51AF 3317 A2CC 97F6 C414
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010142ed79feb89637a172bf9b70db3f298c83495e5c26e4baeef02ce327c3c5b74c0a",
+            "fingerprint": "e9169a3f6d0482d58ac951af3317a2cc97f6c414",
+            "host": "keybase.io",
+            "key_id": "3317a2cc97f6c414",
+            "kid": "010142ed79feb89637a172bf9b70db3f298c83495e5c26e4baeef02ce327c3c5b74c0a",
+            "uid": "ec9f46d8c7e86447bd61b7571e58b919",
+            "username": "feathrd"
+        },
+        "service": {
+            "hostname": "feathrd.co",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1494453880,
+    "expire_in": 157680000,
+    "prev": "3a62c69ccaa537c38e4cfc9d46c4667f8aa07b4571edea1d854fbbf263b18e66",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.70
+Comment: https://keybase.io/crypto
+
+yMIiAnicrVJbSBRRGF7zsrgoFV2sFIJJi2SxuZw5M7OZvYhRRJBSlEjbOWfOuKM2
+s83MboYbpWEJpUiYEd4gKCKLiJLqwVIpCCWJIkHQeugGPXRVCklrRuoh6LHzcjg/
+3/ed7/v4H2Qm+wJJh+out+Ukmr8njQy2xXx7l7TU1jHYVA8zoTqmms5ftEalthOu
+1lUmxLAcywGeqpKiUSwrUJAQJ/FYU7DEqljQeEUmsgAUkYqEhxRgRKnG8oQKvEQE
+ImIJEBYxQUbTjUpqRS3dcFxZqnBQQYIGVRbIvCrKiCgihzRB4CTEE6JIGiSAAy4x
+YtoewzWHkU0LdNOduY/wvL1/4P+z79i8HCWKBqAqE4nKEAAJq5DDkihxVJSxwike
+0KaWgQ5QF61R5EQslTkSZNxhXCfU69UL8jeggHhhopbpmMSscecRx4naIY/nHI56
+wEMUh39LhLFuqG6JLiNOLVs3DSbEuUji6J4mBxQAREGW2SBDa6O6RcO6hxAlKLPu
+8f6hca8yBHkCFUIQEgU3q0wB0YiiArdACCVNRoiVMPCyqRRxqiwCDWONhwLmZAoh
+44U6aJhMCLo2UaUraeuVBnJiFmWODA1UpPiSAr601AXecvkC6Yv+rFz5mP9n8YXE
+2/z8uZ7CM4/a9r3e9GVj/34j43FN78zkVR/byOeE/FnZ91a3ppDGYP3Z9w0DLaX3
+34++wBWGvbhOhqdngmnvvi7cfexjuGpzN3tq1dG+2ZS+FWOJ+I2VhTNDn7JOljXM
+zt08se7O59Kq4N3pb/VFEfJ0LtU8nj0S0/Z8Xtpz/UZk55Wp5GX9EwFaNL4+8aO3
+fcOKqWejwxunA1u21vY0dG6rvtXa/LyrZ1Welf7yQ5c9lrzm3OS1jF3lU71ND4vN
+aG5TX+Zb/yX99vD1zpKpsTfjCxIZO8LC7PIn3f7xrO3N+Qe+v1qb9a3k/CDXkVcx
+MW10tQvZxkRH7o/ysotvfgH2YUPR
+=vqPS
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/feathrd
+
+==================================================================
